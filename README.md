@@ -1,3 +1,3 @@
 # Guessing Game
-Wed Mar 27 10:49:14 MSK 2019
-      45
+now is **Wed Mar 27 10:58:15 MSK 2019**
+lines in guessinggame.sh:       45
